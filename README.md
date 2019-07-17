@@ -3,10 +3,24 @@
 
 若存在问题尽请批评指正。
 
+[购买此书](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&tag=quantpytho-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=8c3bf87b221dbcd8f541f0db20d4da83)
+
 编写本项目的目的就在于方便读者快速的进行数据分析，数据的预处理在人工智能领域是非常基础的一项技能，也希望读者能够根据本项目快速的上手机器学习基础。
 
 ## 涉及的内容
 
 - [神奇的numpy](https://github.com/SuperSupeng/Data-analysis-with-python/tree/master/dataAnalysis/Magical-numpy)
-- [强大的pandas]()
+- [强大的pandas](https://github.com/SuperSupeng/Data-analysis-with-python/tree/master/dataAnalysis/Powerful-pandas)
+- [便捷的matplotlib]()
+- [数据载入]()
+- [数据清洗]()
+- [数据规整]()
+- [数据聚合与分组]()
+
+## 机器学习中Python数据实践样例
+
+- [房价预测]()
+- [根据分数预测学生是否被录取]()
+
+
 
