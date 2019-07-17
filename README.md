@@ -9,7 +9,7 @@
 
 ## 涉及的内容
 
-- [神奇的numpy]([https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Magical-numpy/%E7%A5%9E%E5%A5%87%E7%9A%84numpy.ipynb](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Magical-numpy/神奇的numpy.ipynb))
+- [神奇的numpy](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Magical-numpy/神奇的numpy.ipynb)
 - [强大的pandas](https://github.com/SuperSupeng/Data-analysis-with-python/tree/master/dataAnalysis/Powerful-pandas)
 - [便捷的matplotlib]()
 - [数据载入]()
