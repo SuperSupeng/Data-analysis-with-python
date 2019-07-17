@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7222679c-5b7a-4e1b-b725-d87ae47822d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Magical-numpy/神奇的numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Magical-numpy/神奇的numpy.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7222679c-5b7a-4e1b-b725-d87ae47822d2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,16 +92,17 @@
       <workItem from="1563194168904" duration="699000" />
       <workItem from="1563349441048" duration="8000" />
       <workItem from="1563349864104" duration="15000" />
+      <workItem from="1563350785603" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="722000" />
+    <option name="totallyTimeSpent" value="758000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="991" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1996805" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20181043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
