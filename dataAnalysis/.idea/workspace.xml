@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7222679c-5b7a-4e1b-b725-d87ae47822d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Magical-numpy/神奇的numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Magical-numpy/神奇的numpy.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,12 +90,12 @@
       <workItem from="1563349441048" duration="8000" />
       <workItem from="1563349864104" duration="15000" />
       <workItem from="1563350785603" duration="36000" />
-      <workItem from="1564987174126" duration="365000" />
+      <workItem from="1564987174126" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1123000" />
+    <option name="totallyTimeSpent" value="1382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
