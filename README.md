@@ -10,8 +10,8 @@
 ## 涉及的内容
 
 - [神奇的numpy](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Magical-numpy/神奇的numpy.ipynb)
-- [强大的pandas](https://github.com/SuperSupeng/Data-analysis-with-python/tree/master/dataAnalysis/Powerful-pandas)
-- [便捷的matplotlib]()
+- [强大的pandas]([https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Powerful-pandas/%E5%BC%BA%E5%A4%A7%E7%9A%84pandas.ipynb](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Powerful-pandas/强大的pandas.ipynb))
+- [便捷的matplotlib]([https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/beautiful-matplotlib/%E7%BE%8E%E4%B8%BD%E7%9A%84matplotlib.ipynb](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/beautiful-matplotlib/美丽的matplotlib.ipynb))
 - [数据载入]()
 - [数据清洗]()
 - [数据规整]()
