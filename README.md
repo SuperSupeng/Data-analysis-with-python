@@ -8,7 +8,9 @@
 
 ### 1.2 [Bokeh](https://github.com/bokeh/bokeh)开源项目
 
-![bokeh图标](https://github.com/SuperSupeng/Data-analysis-with-python/blob/master/imgs/bokeh.png?raw=true)
+<a href="https://bokeh.org">
+  <img src="https://static.bokeh.org/logos/logotype.svg" height="60" alt="Bokeh logotype" />
+</a>
 
 若存在问题尽请批评指正。
 
