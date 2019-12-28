@@ -11,13 +11,12 @@
 
 - [神奇的numpy](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Magical-numpy/神奇的numpy.ipynb)
 - [强大的pandas](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/Powerful-pandas/强大的pandas.ipynb)
-- 
 - [数据载入]()
 - [数据清洗]()
 - [数据规整]()
 - [数据聚合与分组]()
 
-# 数据可视化
+## 数据可视化
 
 - [便捷的matplotlib](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/beautiful-matplotlib/美丽的matplotlib.ipynb)
 - [bokeh]()
