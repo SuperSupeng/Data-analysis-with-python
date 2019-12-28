@@ -19,7 +19,7 @@
 ## 数据可视化
 
 - [便捷的matplotlib](https://nbviewer.jupyter.org/github/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/beautiful-matplotlib/美丽的matplotlib.ipynb)
-- [bokeh]()
+- [bokeh](https://github.com/SuperSupeng/Data-analysis-with-python/blob/master/dataAnalysis/oh-bokeh/README.md)
 
 ## 机器学习中Python数据实践样例
 
