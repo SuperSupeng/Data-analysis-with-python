@@ -1,6 +1,8 @@
 # Data-analysis-with-python
 用python玩转数据，本项目参考<<利用Python进行数据分析>>中的相关内容![利用Python进行数据分析](https://github.com/SuperSupeng/Data-analysis-with-python/blob/master/imgs/%E5%88%A9%E7%94%A8python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.png?raw=true)
 
+(Bokeh)[https://github.com/bokeh/bokeh]开源项目[bokeh图标](https://github.com/SuperSupeng/Data-analysis-with-python/blob/master/imgs/bokeh.png?raw=true)
+
 若存在问题尽请批评指正。
 
 [购买此书](https://www.amazon.com/gp/product/1491957662/ref=as_li_tl?ie=UTF8&tag=quantpytho-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491957662&linkId=8c3bf87b221dbcd8f541f0db20d4da83)
