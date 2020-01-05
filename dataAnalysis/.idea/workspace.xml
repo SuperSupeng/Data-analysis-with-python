@@ -51,11 +51,6 @@
               <item name="dataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dataAnalysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
-              <item name="Feature understanding" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
