@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7222679c-5b7a-4e1b-b725-d87ae47822d2" name="Default Changelist" comment="" />
+    <list default="true" id="7222679c-5b7a-4e1b-b725-d87ae47822d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataAnalysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Feature understanding/Feature Selection.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +60,11 @@
             <path>
               <item name="dataAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Feature understanding" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,16 +141,18 @@
       <workItem from="1577516055056" duration="561000" />
       <workItem from="1577599457024" duration="427000" />
       <workItem from="1577969971712" duration="516000" />
+      <workItem from="1579407846742" duration="175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2888000" />
+    <option name="totallyTimeSpent" value="3063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21246007" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28826895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -176,9 +193,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oh-bokeh/bokeh-quickstart.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/oh-bokeh/bokeh-quickstart.ipynb" />
     <entry file="file://$PROJECT_DIR$/Feature understanding/Feature understanding.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
@@ -191,6 +206,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature understanding/Feature Selection.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
